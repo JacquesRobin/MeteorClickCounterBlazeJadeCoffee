@@ -1,3 +1,4 @@
+#
 Template.hello.onCreated ->
   @counter = new ReactiveVar(0)
 
